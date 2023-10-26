@@ -1,0 +1,12 @@
+.top-bar-search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genre-filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
